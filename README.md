@@ -1,0 +1,1 @@
+Cloudflare worker which can set an alarm on your phone via fcm and wait for the process to finish. Requires the corresponding android app to be installed.
